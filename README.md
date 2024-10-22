@@ -28,10 +28,6 @@ This is a simple Python command-line calculator that supports basic arithmetic o
 - `clear`: Reset the result to 0
 - `done`: Exit the calculator
 
-## Installation and Usage
 
-1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+
